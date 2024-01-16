@@ -3,6 +3,8 @@ An open challenge to submit comical punchlines to my jokes to demonstrate how pu
 
 Why did the chicken cross the road?
 
+To get to the other side.
+
 What is orange and sounds like a parrot?
 
 What did the cheese say to the mirror?
